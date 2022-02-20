@@ -29,10 +29,7 @@ namespace repeticao_enquanto_while
                     raiz = Math.Sqrt(y);
                 }
             }
-            for(byte i = 0; i < 6; i++)
-            {
-                Console.WriteLine("Testando Git e Github");
-            }
+
         }
     }
 }
